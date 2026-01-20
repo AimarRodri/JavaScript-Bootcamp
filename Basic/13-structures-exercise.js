@@ -73,7 +73,7 @@ console.log(meses)
 
 let myArray = [1, 2, 3, 4, 5, 6]
 let mySet = new Set(myArray)
-console.log(mySet)
+console.log(mySet.size)
 let myMap = new Map()
 myMap.set("New", mySet)
 console.log(myMap)
