@@ -85,8 +85,7 @@ function lendBook(id){
             break
         }
     }
-    return "Lo lamentamos, su libro no se encuentra en la biblioteca"
-    
+    return "Lo lamentamos, su libro no se encuentra en la biblioteca"    
 }
 
 function returnBook(id){
@@ -125,5 +124,3 @@ function booksByOldes(){
     }
     return result
 }
-
-console.log(booksByOldes())
