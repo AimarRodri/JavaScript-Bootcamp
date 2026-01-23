@@ -1,0 +1,2 @@
+const image = document.getElementById("myImage")
+image.setAttribute("src", "https://www.floristeriamorris.com/wp-content/uploads/todo-lo-que-necesitas-saber-sobre-tulipanes-cuidados-floracion-y-colores.jpg")
